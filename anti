@@ -5,7 +5,7 @@ end
 task.wait(5)
 
 local ACL_LoadTime = tick()
-local NotificationTitle = "fed's bypasser"
+local NotificationTitle = "nigga bypasser"
 
 local OldCoreTypeSettings = {}
 local WhitelistedCoreTypes = {
